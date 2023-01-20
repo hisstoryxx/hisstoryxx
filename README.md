@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 #61DAFB
 - ⚡ Fun fact: ...
 -->
+
 <img src="https://img.shields.io/badge/hisstoryxx@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=Expo&logoColor=white"/> <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=ios&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/>
