@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AWSAmplify-FF9900?style=flat-square&logo=AWSAmplify&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonDynamoDB-4053D6?style=flat-square&logo=AmazonDynamoDB&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/> <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"> 
 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hisstoryxx&show_icons=true&theme=radical)
