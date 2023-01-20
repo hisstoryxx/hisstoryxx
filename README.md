@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/AWSAmplify-FF9900?style=flat-square&logo=AWSAmplify&logoColor=white"/><img src="https://img.shields.io/badge/AmazonDynamoDB-4053D6?style=flat-square&logo=AmazonDynamoDB&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/AWSAmplify-FF9900?style=flat-square&logo=AWSAmplify&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonDynamoDB-4053D6?style=flat-square&logo=AmazonDynamoDB&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/>
