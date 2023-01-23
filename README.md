@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm CHO 👋
 
 <!--
 **hisstoryxx/hisstoryxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,3 +29,29 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hisstoryxx&show_icons=true&theme=transparent)
+
+##Experience
+Developer Jul 2021 -
+MDOC, Seoul, Republic of Korea
+• Focus: Development and Design Mobile Application and Web System
+• Major responsibilities
+- Co Founder & CTO
+- Mobile App : React Native (JAVASCRIPT), AWS AMPLIFY (SERVERLESS)
+- WEB : REACT(JAVASCRIPT), AWS AMPLIFY (SERVERLESS)
+
+##Researcher Aug 2019 – Aug 2022
+Medical Device Design & Usability Laboratory, Yonsei University, Seoul, Republic of Korea
+• Focus: Bio-Signal Processing & Machine Learning
+• Research
+- Simulation and Analysis of Pattern Recognition Neural Network Algorithm for Detection of
+High risk Uterine Contractions based on Electrohysterogram Frequency analysis, The Korean
+Society of Medical & Biological Engineering, Fall Conference 2019, PS2-01
+- Extraction Parameter of Non-Contraction Interval using Unsupervised Learning for Predicting
+Preterm Birth, The Korean Society Of Perinatology, Fall Conference, 2020, 20-3312
+- Analysis of Uterine Contraction Using K-means algorithm, The Institute of Electronics and
+Information Engineers Summer Annual Conference of IEIE, 2020, GEP-672
+- Design for prediction of Preterm using Preprocessing and CNN-LSTM Network, The Institute
+of Electronics and Information Engineers Summer Annual Conference of IEIE, 2021
+• Major responsibilities
+- Analysis Term and Preterm raw EMG data and Design Preprocessing Algorithm
+- Design prediction of Preterm Birth Algorithm with Machine Learning
