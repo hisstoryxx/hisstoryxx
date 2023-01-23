@@ -31,16 +31,18 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hisstoryxx&show_icons=true&theme=transparent)
 
 ## Experience
-Developer Jul 2021 -
+### Developer Jul 2021 -
 MDOC, Seoul, Republic of Korea
+
 • Focus: Development and Design Mobile Application and Web System
 • Major responsibilities
 - Co Founder & CTO
 - Mobile App : React Native (JAVASCRIPT), AWS AMPLIFY (SERVERLESS)
 - WEB : REACT(JAVASCRIPT), AWS AMPLIFY (SERVERLESS)
 
-## Researcher Aug 2019 – Aug 2022
+### Researcher Aug 2019 – Aug 2022
 Medical Device Design & Usability Laboratory, Yonsei University, Seoul, Republic of Korea
+
 • Focus: Bio-Signal Processing & Machine Learning
 • Research
 - Simulation and Analysis of Pattern Recognition Neural Network Algorithm for Detection of
