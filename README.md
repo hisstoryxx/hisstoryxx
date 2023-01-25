@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hisstoryxx&show_icons=true&theme=transparent)
 
 - 🤔 Currently, I’m looking for a job as a Backend Engineer(junior)
-- I studied bio-signal processing and software validation in my master's course at graduate school. In the first year of my graduate school master's course, I accidentally started a business, and while playing an undeserved role as a CTO, I developed a mobile app and website for the first time, and became very interested in server development.
+- I studied bio-signal processing and software validation in my master's course at graduate school. In the first year of my graduate school master's course, I accidentally started a business, and while playing an undeserved role as a CTO, I developed a mobile app and website for the first time, and became very interested in SERVER DEVELOPMENT.
 
 ## EDUCATION
 ### Master of Medical device Engineering and Management Aug 2020 – Aug 2022
