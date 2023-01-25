@@ -38,10 +38,8 @@ Here are some ideas to get you started:
 College of Medicine, Yonsei University, Seoul, South Korea
 Overall GPA 4.34/4.5
 
-• Thesis: Development of cloud-based remote monitoring system for peritoneal dialysis
-patients
-• Academic Focus: Medical Software Device Development & Regulation, Bio-Signal Processing
-& Machine Learning
+• Thesis: Development of cloud-based remote monitoring system for peritoneal dialysis patients
+• Academic Focus: Medical Software Device Development & Regulation, Bio-Signal Processing & Machine Learning
 
 ### Bachelor of Biomedical Engineering Feb 2013 – Aug 2020
 College of Health Sciences, Yonsei University, Won Ju Republic of Korea 
@@ -91,7 +89,7 @@ Medical Computer System Laboratory, Yonsei University Won Ju, Republic of Korea
 - Positioning and design of photo-interrupter sensor to fluid detection
 - Design digital chopping noise canceling Algorithm
 
-### Other 
+## Other 
 • Languages
 - Korean: native language
 - English: intermediate (IH, OPIC)
