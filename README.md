@@ -39,6 +39,7 @@ College of Medicine, Yonsei University, Seoul, South Korea
 Overall GPA 4.34/4.5
 
 • Thesis: Development of cloud-based remote monitoring system for peritoneal dialysis patients
+
 • Academic Focus: Medical Software Device Development & Regulation, Bio-Signal Processing & Machine Learning
 
 ### Bachelor of Biomedical Engineering Feb 2013 – Aug 2020
