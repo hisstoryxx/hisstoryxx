@@ -43,8 +43,8 @@ patients
 • Academic Focus: Medical Software Device Development & Regulation, Bio-Signal Processing
 & Machine Learning
 
-### Bachelor of Biomedical Engineering
-College of Health Sciences, Yonsei University, Won Ju Republic of Korea Feb 2013 – Aug 2020
+### Bachelor of Biomedical Engineering Feb 2013 – Aug 2020
+College of Health Sciences, Yonsei University, Won Ju Republic of Korea 
 Overall GPA: 3.68/4.5
 
 • Academic Focus: Medical System Engineering, Bio-Signal Processing
