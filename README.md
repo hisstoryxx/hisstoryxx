@@ -30,11 +30,31 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hisstoryxx&show_icons=true&theme=transparent)
 
-## Experience
+- 🤔 Currently, I’m looking for a job as a Backend Engineer(junior)
+- I studied bio-signal processing and software validation in my master's course at graduate school. In the first year of my graduate school master's course, I accidentally started a business, and while playing an undeserved role as a CTO, I developed a mobile app and website for the first time, and became very interested in server development.
+
+## EDUCATION
+### Master of Medical device Engineering and Management Aug 2020 – Aug 2022
+College of Medicine, Yonsei University, Seoul, South Korea
+Overall GPA 4.34/4.5
+
+• Thesis: Development of cloud-based remote monitoring system for peritoneal dialysis
+patients
+• Academic Focus: Medical Software Device Development & Regulation, Bio-Signal Processing
+& Machine Learning
+
+### Bachelor of Biomedical Engineering
+College of Health Sciences, Yonsei University, Won Ju Republic of Korea Feb 2013 – Aug 2020
+Overall GPA: 3.68/4.5
+
+• Academic Focus: Medical System Engineering, Bio-Signal Processing
+
+## EXPERIENCE
 ### Developer Jul 2021 -
 MDOC, Seoul, Republic of Korea
 
 • Focus: Development and Design Mobile Application and Web System
+
 • Major responsibilities
 - Co Founder & CTO
 - Mobile App : React Native (JAVASCRIPT), AWS AMPLIFY (SERVERLESS)
@@ -57,3 +77,28 @@ of Electronics and Information Engineers Summer Annual Conference of IEIE, 2021
 • Major responsibilities
 - Analysis Term and Preterm raw EMG data and Design Preprocessing Algorithm
 - Design prediction of Preterm Birth Algorithm with Machine Learning
+
+
+### Researcher Jul 2018 – Dec 2018
+Medical Computer System Laboratory, Yonsei University Won Ju, Republic of Korea
+
+• Focus: Signal-Processing Algorithm Design & Development(MATLAB)
+
+• Research
+- Development of Intravenous Injection Rate Measurement Monitoring System with Digital Signal Processing (capstone design)
+
+• Major responsibilities
+- Positioning and design of photo-interrupter sensor to fluid detection
+- Design digital chopping noise canceling Algorithm
+
+### Other 
+• Languages
+- Korean: native language
+- English: intermediate (IH, OPIC)
+
+### !! The contents below will be attached together with the resume, and only the project name is indicated.
+- 클라우드 기반 복막투석 환자 비대면 모니터링 시스템
+- 비접촉 / 비대면 지능형 인공호흡기 통합모니터링 및 제어시스템 개발
+- 조산 고위험 산모의 자궁근전도를 이용한 자궁 수축 검출 알고리즘 개발
+- 신호처리가 적용된 수액 모니터링 시스템 
+
