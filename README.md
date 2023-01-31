@@ -1,4 +1,5 @@
 ### Hi I'm CHO 👋
+## Not a Coder But TroubleShooter
 
 <!--
 **hisstoryxx/hisstoryxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
