@@ -51,7 +51,7 @@ Overall GPA: 3.68/4.5
 
 ## EXPERIENCE
 ### Developer Jul 2021 -
-MDOC, Seoul, Republic of Korea
+MDOC, Seoul, Republic of Korea (m-doc.io)
 
 • Focus: Development and Design Mobile Application and Web System
 
