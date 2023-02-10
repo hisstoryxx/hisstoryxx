@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hisstoryxx&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hisstoryxx&show_icons=true&theme=transparent&count_private=true)
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hisstoryxx&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hisstoryxx)
 - 🤔 Currently, I’m looking for a job as a Backend Engineer(junior)
 - I studied bio-signal processing and software validation in my master's course at graduate school. In the first year of my graduate school master's course, I accidentally started a business, and while playing an undeserved role as a CTO, I developed a mobile app and website for the first time, and became very interested in SERVER DEVELOPMENT.
