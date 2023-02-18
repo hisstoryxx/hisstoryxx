@@ -49,7 +49,7 @@ Overall GPA: 3.68/4.5
 
 • Academic Focus: Medical System Engineering, Bio-Signal Processing
 
-## EXPERIENCE
+## WORK EXPERIENCE
 ### Developer Jul 2021 -
 MDOC, Seoul, Republic of Korea (m-doc.io)
 
@@ -97,8 +97,8 @@ Medical Computer System Laboratory, Yonsei University Won Ju, Republic of Korea
 - English: intermediate (IH, OPIC)
 
 ### !! The contents below will be attached together with the resume, and only the project name is indicated.
-- 클라우드 기반 복막투석 환자 비대면 모니터링 시스템
-- 비접촉 / 비대면 지능형 인공호흡기 통합모니터링 및 제어시스템 개발
-- 조산 고위험 산모의 자궁근전도를 이용한 자궁 수축 검출 알고리즘 개발
-- 신호처리가 적용된 수액 모니터링 시스템 
+- 클라우드 기반 복막투석 환자 비대면 모니터링 시스템 (Development of cloud-based remote monitoring system for peritoneal dialysis patients)
+- 비접촉 / 비대면 지능형 인공호흡기 통합모니터링 및 제어시스템 개발 (Development of non-contact / non-face-to-face intelligent ventilator integrated monitoring and control system)
+- 조산 고위험 산모의 자궁근전도를 이용한 자궁 수축 검출 알고리즘 개발 (Development of Uterine Contractions Regognition Algorithm based on Uterine Electrohysterogram) 
+- 신호처리가 적용된 수액 모니터링 시스템 (Development of fluid monitoring system with signal processing applied)
 
