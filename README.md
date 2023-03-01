@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hisstoryxx&show_icons=true&theme=transparent&count_private=true)
 [![hisstoryxx's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hisstoryxx&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&langs_count=10)](https://github.com/hisstoryxx/hisstoryxx)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hisstoryxx&layout=compact&langs_count=8&theme=white)]
 
 
 - 🤔 Currently, I’m looking for a job as a Frontend(senior) | Backend Engineer(junior)
