@@ -72,7 +72,7 @@ MDOC, Seoul, Republic of Korea (m-doc.io)
     
 • React project
 - https://m-doc.io/
-
+- mDocManager : distributed to each hospital
 
 ### Researcher Aug 2019 – Aug 2022
 Medical Device Design & Usability Laboratory, Yonsei University, Seoul, Republic of Korea
