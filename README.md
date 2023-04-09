@@ -53,7 +53,7 @@ Overall GPA: 3.68/4.5
 • Academic Focus: Medical System Engineering, Bio-Signal Processing
 
 ## WORK EXPERIENCE
-### Developer Jul 2021 -
+### Developer
 MDOC, Seoul, Republic of Korea (m-doc.io)
 
 • Focus: Development and Design Mobile Application and Web System
