@@ -75,6 +75,8 @@ MDOC, Seoul, Republic of Korea (m-doc.io)
 - mDocManager : distributed to each hospital
                 
                 Demo : https://version3.d30lnrmdlnntoq.amplifyapp.com/#/
+                
+- Demo Video: https://hisstoryxx.notion.site/760dc0435e42408ebf28ec7a4441ce0c
 
 ### Researcher Aug 2019 – Aug 2022
 Medical Device Design & Usability Laboratory, Yonsei University, Seoul, Republic of Korea
