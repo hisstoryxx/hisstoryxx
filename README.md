@@ -73,6 +73,7 @@ MDOC, Seoul, Republic of Korea (m-doc.io)
 • React project
 - https://m-doc.io/
 - mDocManager : distributed to each hospital
+                
                 Demo : https://version3.d30lnrmdlnntoq.amplifyapp.com/#/
 
 ### Researcher Aug 2019 – Aug 2022
