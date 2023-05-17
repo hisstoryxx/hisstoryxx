@@ -63,7 +63,7 @@ MDOC, Seoul, Republic of Korea (m-doc.io)
 - Mobile App : React Native (JAVASCRIPT), AWS AMPLIFY (SERVERLESS)
 - WEB : REACT(JAVASCRIPT), AWS AMPLIFY (SERVERLESS)
 
-• React Native Project
+• React Native Project (MDOCHOMECARE)
 - iOS : https://apps.apple.com/kr/app/%EC%97%A0%EB%8B%A5%ED%99%88%EC%BC%80%EC%96%B4/id1606627654?l
 - Android : https://play.google.com/store/apps/details?id=com.choro94.mDochome
     
