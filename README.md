@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 - 🤔 Currently, I’m looking for a job as a Frontend(junior) developer
-- I studied bio-signal processing and software validation in my master's course at graduate school. In the first year of my graduate school master's course, I accidentally started a business, and while playing an undeserved role as a CTO, I developed a mobile app and website for the first time in 5 months, and became very interested in SERVER DEVELOPMENT.
+- I studied bio-signal processing and software validation in my master's course at graduate school. In the first year of my graduate school master's course, I accidentally started a business, I developed a mobile app and website for the first time in 5 months, and became very interested in not only Frontend But also SERVER DEVELOPMENT.
 
 ## EDUCATION
 ### Master of Medical device Engineering and Management Aug 2020 – Aug 2022
